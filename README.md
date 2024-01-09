@@ -6,7 +6,7 @@ Collaboration is at the heart of my approach. I enjoy working alongside diverse 
 
 Some of my projects in teaching are available in this GitHub as well as side projects in Statistics/Data Visualization Sustainability, Bioinformatics and so long.
 
-Feel free to contact [me](mailto:yasmine.draceni@gmail.com) with any inquiries, for discussions, or to explore potential collaboration on exciting projects surrounded by good tea 🍵 ! I'm constantly welcoming new opportunities and connections.
+Feel free to contact [me](mailto:yasmine.draceni@gmail.com) with any inquiries, for discussions, or to explore potential collaboration on exciting projects surrounded by a good tea 🍵 ! I'm constantly welcoming new opportunities and connections.
 
 All best,
 
