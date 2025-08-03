@@ -1,13 +1,24 @@
 ### Hi there 👋
 
-I'm Yasmine, Data Scientist consultant who worked in academia and industry sectors. I'm Passionate about Science, Education, Climate Action and Sustainability. I love exploring data and discovering meaningful patterns 🕵🏼‍♀️. As well as bridging the gaps between technicals aspects and break it down for a general audience.
+I'm Yasmine, a **Data Scientist & Engineer** with experience across academia and industry. I'm passionate about using data to drive impact in **Health, Climate Action, Sustainability, and Education**.
 
-Collaboration is at the heart of my approach. I enjoy working alongside diverse teams to solve intricate problems, but I also have a proven track record of fostering effective teamwork and serving as a trusted partner. As a natural leader, I have developed valuable leadership skills through various experiences. My ability to effectively communicate and foster teamwork enables me to guide projects towards successful outcomes.
+**What I do:**
+- 🔍 Extract meaningful insights from complex datasets
+- 🛠️ Build end-to-end data pipelines and analytics solutions  
+- 📊 Create compelling visualizations that tell data stories
+- 🤝 Bridge technical complexity with clear business communication
 
-Some of my projects in teaching are available in this GitHub as well as side projects in Statistics/Data Visualization Sustainability, Bioinformatics and so long.
+**Technical Focus Areas:**
+- Statistics & Data Visualization
+- Bioinformatics & Healthcare Data
+- Environmental Sustainability Analytics
+- ETL/ELT Pipeline Development
 
-Feel free to contact [me](mailto:yasmine.draceni@gmail.com) with any inquiries, for discussions, or to explore potential collaboration on exciting projects surrounded by a good tea 🍵 ! I'm constantly welcoming new opportunities and connections.
+As a collaborative leader, I excel at guiding diverse teams through complex data challenges while cultivating effective partnerships. My projects span from **production data pipelines** to **research implementations** - check out my repositories below!
 
-All best,
+Currently seeking **Data Engineering** opportunities where I can combine technical expertise with meaningful impact.
 
-Yasmine Draceni
+📧 Let's connect: [yasmine.draceni@gmail.com](mailto:yasmine.draceni@gmail.com) ☕
+
+---
+*Building bridges between data and decisions, one insight at a time.*
