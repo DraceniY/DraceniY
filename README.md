@@ -16,7 +16,7 @@ I'm Yasmine, a **Data Scientist & Engineer** with experience across academia and
 
 ## 💼 Portfolio Highlights
 
-[ESG Financial Modeling Intelligent Platform]([https://github.com/yourusername/railway-esg-dashboard](https://carbon-pricing-intelligence.up.railway.app/))
+- ESG Financial Modeling Intelligent Platform [Live demo](https://carbon-pricing-intelligence.up.railway.app/)
 
 Advanced financial modeling platform analyzing ESG risks in railway transportation. Built with Python, featuring predictive analytics and interactive visualizations for sustainability metrics.
 
