@@ -14,7 +14,7 @@ I'm Yasmine, a **Data Scientist & Engineer** with experience across academia and
 - Environmental Sustainability Analytics
 - ETL/ELT Pipeline Development
 
-** 💼 Portfolio Highlights
+💼 **Portfolio Highlights
 
 - ESG Financial Modeling Intelligent Platform [Live demo](https://carbon-pricing-intelligence.up.railway.app/)
 
