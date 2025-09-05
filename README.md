@@ -16,7 +16,7 @@ I'm Yasmine, a **Data Scientist & Engineer** with experience across academia and
 
 **Portfolio Highlights:**
 
-- ESG Financial Modeling Intelligent Platform [Click here for live demo](https://carbon-pricing-intelligence.up.railway.app/)
+- ESG Financial Modeling Intelligent Platform [Click here for live demo](https://esgintelligent.up.railway.app/)
 - Montreal Micromobility Analytics Platform [Click here for live demo](https://web-production-ec89b.up.railway.app/)
 
 As a collaborative leader, I excel at guiding diverse teams through complex data challenges while cultivating effective partnerships. My projects span from **production data pipelines** to **research implementations** - check out my repositories below!
