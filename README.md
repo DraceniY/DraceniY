@@ -22,7 +22,7 @@ As a collaborative leader, I excel at guiding diverse teams through complex data
 
 Currently seeking **Data Engineering** opportunities where I can combine technical expertise with meaningful impact.
 
-📧 Let's connect: [yasmine.draceni@gmail.com](mailto:hello@yasminedraceni.com) ☕
+📧 Let's connect: [hello@yasminedraceni.com](mailto:hello@yasminedraceni.com) ☕
 
 ---
 *Building bridges between data and decisions, one insight at a time.*
